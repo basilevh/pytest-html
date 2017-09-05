@@ -110,7 +110,7 @@ or relative.
 may not work as expected, see section `Creating a self-contained report`_ for
 more info.
 
-There are also convenient types for several image formats:
+There are also convenient types for several image formats, where the argument ``image`` is a base64-encoded string:
 
 ============  ====================
 Image format  Example
